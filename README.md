@@ -19,7 +19,7 @@ greet() {
 greet();
 const Sanjaya = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, React, HTML, CSS, Python, Java, CSharp, CPP ],
+   code: [Javascript, Typescript, React, HTML, CSS, Python, Java, CSharp, Cpp ],
    technologies: {
       Cloud: [AWS, Azure, GitHub],
       databases: ["MongoDB", "mySQL"],
